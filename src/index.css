@@ -1,0 +1,18 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.nva-bar {
+  background-color: aqua;
+}
+.nva-bar ul {
+  padding: 20px;
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+
